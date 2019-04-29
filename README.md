@@ -10,7 +10,7 @@ Discord bot created for [Vampire's Fall: Origins](https://www.reddit.com/r/vampi
 
 Then issue the following commands into the terminal:
 ```
-git clone <this repo link>
+git clone https://github.com/Karolcz125/vfo-discord-bot.git
 cd vfo-discord-bot
 npm i
 token=<insert your token here>
