@@ -1,0 +1,10 @@
+[
+  {
+    "onMessage": "ping",
+    "response": "pong!"
+  },
+  {
+    "onMessage":"help",
+    "response": "this command is not yet implemented. :("
+  }
+]
