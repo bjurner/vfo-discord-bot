@@ -3,4 +3,4 @@ import BehaviourSupplierModule from './behaviour-supplier/behaviour-supplier.mod
 
 BehaviourSupplierModule.initialize();
 
-ENV.CLIENT.login(ENV.TOKEN);
+ENV.CLIENT.login(ENV.SECRET);
