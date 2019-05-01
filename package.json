@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "discord.js": "^11.4.2",
+    "dotenv": "^7.0.0",
     "erlpack": "github:hammerandchisel/erlpack",
     "uws": "^100.0.1"
   },
