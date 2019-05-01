@@ -1,8 +1,8 @@
 import * as fs from 'fs';
-import {ENV} from '../../../resources/environment';
-import {Supplier} from '../supplier-decorator';
-import {BehaviourSupplier} from '../behaviour-supplier';
 import {StaticMessage} from './static-message';
+import {ENV} from '../../../environment/environment';
+import BehaviourSupplier from '../behaviour-supplier';
+import {Supplier} from '../supplier-decorator';
 
 @Supplier()
 export class StaticBehaviourSupplier implements BehaviourSupplier {
