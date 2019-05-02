@@ -1,5 +1,4 @@
 import {Client} from "discord.js";
-require('dotenv').config();
 
 export const ENV = {
     PREFIX: "!wm",
