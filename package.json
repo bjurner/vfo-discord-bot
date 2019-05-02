@@ -5,12 +5,13 @@
   "author": "Vampire's Fall Origins Community",
   "license": "ISC",
   "scripts": {
-    "start": "ts-node -P ./tsconfig.json src/app/index.ts"
+    "start": "ts-node -P ./tsconfig.json index.ts"
   },
   "dependencies": {
     "discord.js": "^11.4.2",
     "dotenv": "^7.0.0",
     "erlpack": "github:hammerandchisel/erlpack",
+    "injection-js": "^2.2.1",
     "uws": "^100.0.1"
   },
   "devDependencies": {

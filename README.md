@@ -13,14 +13,14 @@ Then issue the following commands into the terminal:
 git clone https://github.com/Karolcz125/vfo-discord-bot.git
 cd vfo-discord-bot
 npm i
-token=<insert your token here>
+secret=<insert your token here>
 npm start
 ```
 
 if you're using windows, replace 
-`token=<insert your token here>`
+`secret=<insert your token here>`
 with 
-`set token "<insert your token here>"`.
+`set secret "<insert your token here>"`.
 It should work although I haven't tested it.
 
 ### Contribution
