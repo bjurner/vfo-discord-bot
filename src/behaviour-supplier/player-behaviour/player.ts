@@ -1,4 +1,5 @@
 export class Player {
+	discordId: String;
 	username: String;
 	lvl: Number;
 	totalRP: Number;
